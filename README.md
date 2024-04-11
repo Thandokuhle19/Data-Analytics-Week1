@@ -156,4 +156,15 @@ _Structured Data:_
 - But, structured data does not translate directly to data quality.
 
 _Unstructured Data:_
+- Unstructured data: is qualitive, describing the characteristics of an event or an object.
+- Examples of unstructured data include images, phrases, audio or video recordings, and descriptive text.
+- Since the data is highly variable, the organisational and storage are different from the structured data.
+- They represent a significant opportunity.
+- Common source of unstructed data is machine data.
+- Machine data has many sources, like Internet of Things devices (IoT), smartphones, tablets, personal computers, and servers.
+- They create digital footprints of their activity.
+- The data is unstructured and can identify machine-to-machine interaction.
+- With unstructured data, the key is a unique identifier, whereas the value is the unstructured data itself.
+
+_Semi-Structured Data:_
 - 
