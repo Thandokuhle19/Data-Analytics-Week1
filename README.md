@@ -167,4 +167,42 @@ _Unstructured Data:_
 - With unstructured data, the key is a unique identifier, whereas the value is the unstructured data itself.
 
 _Semi-Structured Data:_
+- Semistructured data: data that has structure and is not tabular.
+- An example of a semi-structured data is an email.
+- Every email have structural components like sender, subject, date and time, and recipient. But, the body of an email is unstructured text which are attachments (any type of file).
+
+_Common File Formats:_
+- Common file formats make it easier to exchange data and for tools to be able to exchange and make use of information of computer systems or software.
+
+_Text Files:_
+- Texts files are one of the most commo used data file formats.
+- They consist of plain text and are limited in scope to alphanumeric data.
+- One of the reaons why text files are so popular is because they are easily accessible on any platform or operating system.
+- An ouput is usually stored in a text file when machines generate data.
+- A unique character known as a delimiter (is the character that seperates individual fields) facilitates transmitting structured data via a text file.
+- A lot of software packages support reading and writing files by using the comma and tab.
+- When a file is determined by its use of commas, it is known as a comma-seperated values(CSV) file, and when a file is determined by its tab, it called tab-seperated values(TSV) files.
+
+ _Fixed-Width Files:_
+ - Fixed-width files are harder to create since they need more extra steps.
+ - First row: describes the column names.
+ - You must first determine the maximum length of each column for data rows .
+
+
+_JavaScript Object Notation:_
+- An open standard file file format which used to add structure to a text file without any suffering overhead is a JavaScript Object Notation(JSON).
+- JSON is easily readable by people and easily parsed by modern programming languages (such as Python, R, and have libraries which accomodates reading writing JSON files).
+
+_Extensible Markup Language(XML):_
+- This is a markup language that is easily structured data in a text file.
+- XML experience more overhead because it makes use of tags.
+- Tags describe a data element and enclose each value for each data element.
+- Tags help with readability and also add a significant amount of overhead.
+
+_HyperText Markup Language(HTML):_
+- This is a markup language for documents design to be displayed a web browser.
+- The pages of HTML is for the foundation for how people interact with World Wide Web.
+- HTML is a tag-based language.
+- HTML developers create web pages that dynamically display content, adjust to different screen sizes, and play videos.
+- HTML supports image tag the most.
 - 
